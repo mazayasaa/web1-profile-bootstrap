@@ -1,0 +1,21 @@
+#gambar{
+	width: 50%;
+}
+
+#gambar img{
+	width: 90%;
+	border-radius: 1rem;
+	box-shadow: 0 12px 20px #ddd;
+}
+
+#identitas{
+	width: 50%;
+}
+
+#info_utama{
+	display: flex;
+}
+
+.section{
+	padding: 10px;
+}
